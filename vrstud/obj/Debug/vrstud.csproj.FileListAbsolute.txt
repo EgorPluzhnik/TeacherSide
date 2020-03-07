@@ -1,0 +1,63 @@
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\bin\Debug\vrstud.exe.config
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\bin\Debug\vrstud.exe
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\bin\Debug\vrstud.pdb
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud.csprojAssemblyReference.cache
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\App.g.cs
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud_MarkupCompile.cache
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud_MarkupCompile.lref
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud.g.resources
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud.Properties.Resources.resources
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud.csproj.GenerateResource.cache
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud.exe
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud.pdb
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud_Content.g.cs
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud.csproj.Fody.CopyLocal.cache
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\View\StartPage.g.cs
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\View\StartPage.baml
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\View\LoginPage.g.cs
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\View\LoginPage.baml
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\View\CommonPage.g.cs
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\View\CommonPage.baml
+C:\Users\minio\Documents\vrStud\vrstud\vrstud\obj\Debug\vrstud.csproj.CoreCompileInputs.cache
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud.csprojAssemblyReference.cache
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\View\CommonPage.g.cs
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\View\LoginPage.g.cs
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\View\StartPage.g.cs
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\App.g.cs
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud_Content.g.cs
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud_MarkupCompile.cache
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud_MarkupCompile.lref
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud.exe
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud.pdb
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\bin\Debug\vrstud.exe.config
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\bin\Debug\vrstud.exe
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\bin\Debug\vrstud.pdb
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\App.baml
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\View\CommonPage.baml
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\View\LoginPage.baml
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\View\StartPage.baml
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud.g.resources
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud.Properties.Resources.resources
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud.csproj.GenerateResource.cache
+C:\Users\egorp\Desktop\препод\VrStudy\vrstud\obj\Debug\vrstud.csproj.Fody.CopyLocal.cache
+C:\Users\egorp\Desktop\на гит\vrstud\bin\Debug\vrstud.exe.config
+C:\Users\egorp\Desktop\на гит\vrstud\bin\Debug\vrstud.exe
+C:\Users\egorp\Desktop\на гит\vrstud\bin\Debug\vrstud.pdb
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud.csprojAssemblyReference.cache
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\View\CommonPage.g.cs
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\View\LoginPage.g.cs
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\View\StartPage.g.cs
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\App.g.cs
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud_Content.g.cs
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud_MarkupCompile.cache
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud_MarkupCompile.lref
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\App.baml
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\View\CommonPage.baml
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\View\LoginPage.baml
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\View\StartPage.baml
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud.g.resources
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud.Properties.Resources.resources
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud.csproj.GenerateResource.cache
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud.csproj.Fody.CopyLocal.cache
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud.exe
+C:\Users\egorp\Desktop\на гит\vrstud\obj\Debug\vrstud.pdb

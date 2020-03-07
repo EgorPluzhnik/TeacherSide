@@ -1,0 +1,98 @@
+<Page x:Class="vrstud.View.StartPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:vrstud.View"
+      mc:Ignorable="d"
+      Title="StartPage" Height="450" Width="800">
+    <Page.Resources>
+        <Style x:Key="GroupBorder" TargetType="Border">
+            <Setter Property="BorderThickness" Value="5" />
+            <Setter Property="BorderBrush" Value="Black" />
+            <Setter Property="MinHeight" Value="144" />
+            <Setter Property="CornerRadius" Value="15" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="VerticalAlignment" Value="Top" />
+            <Setter Property="Margin" Value="10" />
+            <Setter Property="MinWidth" Value="150" />
+        </Style>
+        <Style x:Key="Btn" TargetType="Button">
+            <Setter Property="MaxWidth" Value="359" />
+            <Setter Property="Height" Value="47" />
+            <Setter Property="Margin" Value="5" />
+            <Setter Property="FontFamily" Value="Roboto" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="FontWeight" Value="DemiBold" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Foreground" Value="#E0E0E0" />
+        </Style>
+        <Style x:Key="UnvailableBtn" TargetType="Button" BasedOn="{StaticResource Btn}">
+            <Setter Property="Background" Value="#BDBDBD" />
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#BDBDBD" />
+                    <Setter Property="Foreground" Value="#E0E0E0" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="GreenBtn" TargetType="Button" BasedOn="{StaticResource Btn}">
+            <Setter Property="Background" Value="#219653" />
+            <Setter Property="VerticalAlignment" Value="Bottom" />
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="White" />
+                    <Setter Property="Foreground" Value="#219653" />
+                    <Setter Property="BorderThickness" Value="1" />
+                    <Setter Property="BorderBrush" Value="#219653" />
+                    <Setter Property="Cursor" Value="Hand" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Border Grid.Column="0" Style="{StaticResource GroupBorder}" HorizontalAlignment="Center">
+                <StackPanel x:Name="GroupsPanel" Margin="5">
+                    <Label Content="ГРУППЫ" FontSize="24" FontFamily="Roboto" HorizontalContentAlignment="Center" />
+                    <Button Content="ИЗМЕНИТЬ" Style="{StaticResource UnvailableBtn}" />
+                    <Button Content="ДОБАВИТЬ" Style="{StaticResource UnvailableBtn}" />
+                </StackPanel>
+            </Border>
+
+            <Border Grid.Column="1" Style="{StaticResource GroupBorder}" HorizontalAlignment="Center">
+                <StackPanel x:Name="SrudentsPanel" Margin="5">
+                    <Label Content="СТУДЕНТЫ" FontSize="24" FontFamily="Roboto" HorizontalContentAlignment="Center" />
+                    <Button Content="ИЗМЕНИТЬ" Style="{StaticResource UnvailableBtn}" />
+                    <Button Content="ДОБАВИТЬ" Style="{StaticResource UnvailableBtn}" />
+                </StackPanel>
+            </Border>
+            <Border Grid.Column="2" Style="{StaticResource GroupBorder}" BorderBrush="#219653"
+                    HorizontalAlignment="Center">
+                <StackPanel x:Name="TeacherPanel" Margin="5">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Label Content="Гость" FontSize="18" FontFamily="Roboto" HorizontalContentAlignment="Left"
+                               Grid.Row="0" />
+                        <Button Content="ВХОД" Style="{StaticResource GreenBtn}" Grid.Row="1"
+                                Command="{Binding Path=ShowLoginForm}" />
+                    </Grid>
+                </StackPanel>
+            </Border>
+            <Button Grid.Row="2" Grid.Column="3" Style="{StaticResource GreenBtn}" Content="Запустить VR" />
+        </Grid>
+    </Grid>
+</Page>
